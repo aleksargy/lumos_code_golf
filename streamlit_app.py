@@ -3,7 +3,7 @@ import pandas as pd
 import requests
 
 # Load data (from Google Sheet JSON endpoint)
-url = "https://api.sheety.co/abc123/myLeaderboard/scores"
+url = "https://api.sheety.co/2caf3187832c60cabf5169409f671a57/codeGolfLeaderboard/sheet1"
 data = requests.get(url).json()["scores"]
 
 df = pd.DataFrame(data)
