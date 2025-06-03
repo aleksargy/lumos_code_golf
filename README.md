@@ -1,1 +1,1 @@
-# lumos_code_golf
+# ⛳ Lumos Goes Golfing
