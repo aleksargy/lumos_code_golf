@@ -1,0 +1,20 @@
+streamlit_app.py
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+.envrc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code or JetBrains
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
