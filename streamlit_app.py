@@ -18,7 +18,7 @@ hole_descriptions = {
 }
 
 # --- CONFIG ---
-url = "https://script.google.com/macros/s/AKfycbzv2g5JNmgYPUQWcuxpelfGWBPqTPelOGiZdUdfC4SZbF3_1Ko3FV3UFr4Dv2XZ9aNb/exec"
+url = ""
 YOUTUBE_PLAYLIST = "https://www.youtube.com/embed/MGD2gh5XaBU?si=gIREmUsDoC4TBUgw"
 
 st.set_page_config(page_title="Lumos Code Golf", layout="wide")
